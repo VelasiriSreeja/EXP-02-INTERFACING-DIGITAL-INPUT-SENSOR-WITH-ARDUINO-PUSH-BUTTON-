@@ -51,6 +51,8 @@ PROCEDURE
 
 
 CIRCUIT DIAGRAM 
+![Screenshot (89)](https://user-images.githubusercontent.com/118344328/229501015-8b2bcb0f-2891-4eaa-8e2e-609d5d3d5dc5.png)
+
 
 
 
@@ -67,15 +69,39 @@ FIGURE -03
 
 
 PROGRAM 
+int buttonstate = 0;
+void setup()
+{
+  pinMode(2, INPUT);
+  pinMode(13, OUTPUT);
+}
+
+void loop()
+{
+  buttonstate = digitalRead(2);
+  if(buttonstate == HIGH)
+  {
+    digitalWrite(13,HIGH);
+  }else
+  {
+    digitalWrite(13, LOW);
+  }
+  delay(15);
+}
  
  
  
  
  
+![Screenshot (90)](https://user-images.githubusercontent.com/118344328/229501615-6b8b202d-b8dc-4d44-9c04-db99f7abc786.png
 
 
 
 Output of the simulation :
+![Screenshot (90)](https://user-images.githubusercontent.com/118344328/229501658-3cafc3aa-4414-40a6-a82a-9fca92dbc29b.png)
+
+
+
 
 [My image](username.github.com/repository/img/image.jpg)
 
