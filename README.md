@@ -69,6 +69,7 @@ FIGURE -03
 
 
 PROGRAM 
+```
 int buttonstate = 0;
 void setup()
 {
@@ -88,12 +89,7 @@ void loop()
   }
   delay(15);
 }
- 
- 
- 
- 
- 
-![Screenshot (90)](https://user-images.githubusercontent.com/118344328/229501615-6b8b202d-b8dc-4d44-9c04-db99f7abc786.png
+ ```
 
 
 
