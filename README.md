@@ -51,7 +51,7 @@ PROCEDURE
 
 
 CIRCUIT DIAGRAM 
-![Screenshot (89)](https://user-images.githubusercontent.com/118344328/229501015-8b2bcb0f-2891-4eaa-8e2e-609d5d3d5dc5.png)
+
 
 
 
@@ -70,6 +70,9 @@ FIGURE -03
 
 PROGRAM 
 ```
+develped by :v.sreeja
+register number : 212222230169
+
 int buttonstate = 0;
 void setup()
 {
