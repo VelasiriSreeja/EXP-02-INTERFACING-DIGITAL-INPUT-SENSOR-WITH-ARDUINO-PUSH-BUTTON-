@@ -99,4 +99,7 @@ void loop()
 Output of the simulation :
 ![Screenshot (90)](https://user-images.githubusercontent.com/118344328/229501658-3cafc3aa-4414-40a6-a82a-9fca92dbc29b.png)
 
+Result:
+thus the simulation output on interfacing digital input sensor with arduino has been completed in tinkercad.
+
 
