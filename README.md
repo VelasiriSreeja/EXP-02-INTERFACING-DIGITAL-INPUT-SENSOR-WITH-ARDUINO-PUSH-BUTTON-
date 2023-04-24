@@ -97,7 +97,12 @@ void loop()
 
 
 Output of the simulation :
+Before simulation:
+
+After simulation:
 ![Screenshot (90)](https://user-images.githubusercontent.com/118344328/229501658-3cafc3aa-4414-40a6-a82a-9fca92dbc29b.png)
+Before simulation:
+![Screenshot (132)](https://user-images.githubusercontent.com/118344328/233992328-443a5dc5-ed55-46e0-b3d0-c5e849fe0694.png)
 
 RESULT:
 
